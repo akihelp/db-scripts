@@ -1,3 +1,6 @@
+
+-- PostgreSQL database dump Practical IT
+
 --
 -- PostgreSQL database dump
 --
